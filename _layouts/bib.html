@@ -69,7 +69,7 @@
               {% endif %}
             {% else %}
               {% if author_is_self %}
-                  {% if entry.corr %}
+                {% if entry.corr %}
                   and <em><b>{{author.first}} {{author.last}}</b></em><sup>#</sup>
                 {% else %}
                   and <em><b>{{author.first}} {{author.last}}</b></em>

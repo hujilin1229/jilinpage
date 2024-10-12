@@ -5,15 +5,15 @@ permalink: /services/
 nav: true
 ---
 
-
-##### Conference Organizer: 
+##### Professional Activities: 
+  - Chair, 2022.09 - present, IEEE Denmark Section Computer Society Chapter
   - Session Chair, ACM SIGSPATIAL China Spatial Data Intelligent Conference (Spatial-DI 2021)
   - Session Chair, International Conference on Very Large Data Base (VLDB 2020)
 
 ##### Conference PC member: 
   - ACM SIGKDD (KDD 2022)
   - Asia-Pacific Web Conference (APWeb 2020)
-  - AAAI Conference on Artificial Intelligence (AAAI-21)
+  - AAAI Conference on Artificial Intelligence (AAAI-21,22)
   - IEEE Conference on Computer Vision and Pattern Recognition (CVPR-21,22)
   - IEEE The Internation Conference on Computer Vision (ICCV-21)
   - ACM International Conference on Information and Knowledge Management (CIKM-21,22)
