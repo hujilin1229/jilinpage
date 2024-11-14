@@ -7,13 +7,16 @@ nav: true
 
 ##### Professional Activities: 
   - Chair, 2022.09 - present, IEEE Denmark Section Computer Society Chapter
+  - Treature Chair, ACM SIGSPATIAL (SIGSPATIAL 2023-2024)
+  - Session Chair, International Conference on Very Large Data Base (VLDB 2024)
   - Session Chair, ACM SIGSPATIAL China Spatial Data Intelligent Conference (Spatial-DI 2021)
   - Session Chair, International Conference on Very Large Data Base (VLDB 2020)
 
 ##### Conference PC member: 
-  - ACM SIGKDD (KDD 2022)
+  - ACM SIGKDD (KDD 22-25)
+  - IEEE International Conference on Data Engineering (ICDE-25)
   - Asia-Pacific Web Conference (APWeb 2020)
-  - AAAI Conference on Artificial Intelligence (AAAI-21,22)
+  - AAAI Conference on Artificial Intelligence (AAAI-21-25)
   - IEEE Conference on Computer Vision and Pattern Recognition (CVPR-21,22)
   - IEEE The Internation Conference on Computer Vision (ICCV-21)
   - ACM International Conference on Information and Knowledge Management (CIKM-21,22)
@@ -38,3 +41,4 @@ nav: true
 ##### Membership: 
   - IEEE member
   - ACM member
+  - CCF member
